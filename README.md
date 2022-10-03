@@ -1,5 +1,5 @@
 # SanboxIt
-This PoC sets Untrasted Integrity to an specific process using highest possible privileges 
+This PoC sets Untrusted Integrity to an specific process using highest possible privileges 
 
 ![](img/untrusted.png)
 
