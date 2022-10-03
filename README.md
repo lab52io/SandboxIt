@@ -1,5 +1,5 @@
 # SanboxIt
-This PoC sets Untrusted Integrity to an specific process using highest possible privileges 
+This PoC sets Untrusted Integrity to an specific process using highest possible privileges.
 Use: SandboxIt.exe PID
 
 ![](img/untrusted.png)
